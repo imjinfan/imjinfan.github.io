@@ -27,8 +27,7 @@ DISPLAY_CATEGORIES_ON_MENU = True
 
 MENUITEMS=(('存档','https://imjinfan.github.io/archives.html'),
 ('分类', 'https://imjinfan.github.io/categories.html'),
-('标签', 'https://imjinfan.github.io/tag.html'),
-           ('e', ''),)
+('标签', 'https://imjinfan.github.io/tag.html'),)
 
 # Blogroll
 LINKS = (('Pelican', 'http://getpelican.com/'),
