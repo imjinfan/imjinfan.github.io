@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
 
@@ -14,8 +14,8 @@ from pelicanconf import *
 SITEURL = 'https://imjinfan.github.io'
 RELATIVE_URLS = False
 
-FEED_ALL_ATOM = 'feeds/all.atom.xml'
-CATEGORY_FEED_ATOM = 'feeds/{slug}.atom.xml'
+##FEED_ALL_ATOM = 'feeds/all.atom.xml'
+#CATEGORY_FEED_ATOM = 'feeds/{slug}.atom.xml'
 
 DELETE_OUTPUT_DIRECTORY = False
 

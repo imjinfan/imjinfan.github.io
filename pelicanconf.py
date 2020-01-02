@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
 
@@ -25,9 +25,9 @@ USE_FOLDER_AS_CATEGORY = True
 DISPLAY_PAGES_ON_MENU = True
 DISPLAY_CATEGORIES_ON_MENU = True
 
-MENUITEMS=(('a','https://imjinfan.github.io/archives.html'),
-('c', 'https://imjinfan.github.io/categories.html'),
-('t', 'https://imjinfan.github.io/tag.html'),
+MENUITEMS=(('存档','https://imjinfan.github.io/archives.html'),
+('分类', 'https://imjinfan.github.io/categories.html'),
+('标签', 'https://imjinfan.github.io/tag.html'),
            ('e', ''),)
 
 # Blogroll
